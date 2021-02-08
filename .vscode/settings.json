@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "planbcoding.vscode-react-refactor",
+    "visualstudioexptteam.vscodeintellicode",
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-rename-tag"
+  ]
+}
