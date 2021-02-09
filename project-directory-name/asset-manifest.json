@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-workshop-bingo-example/static/css/main.bd83570c.chunk.css",
-    "main.js": "/react-workshop-bingo-example/static/js/main.7d5b9cb7.chunk.js",
-    "main.js.map": "/react-workshop-bingo-example/static/js/main.7d5b9cb7.chunk.js.map",
+    "main.js": "/react-workshop-bingo-example/static/js/main.f890b4bc.chunk.js",
+    "main.js.map": "/react-workshop-bingo-example/static/js/main.f890b4bc.chunk.js.map",
     "runtime-main.js": "/react-workshop-bingo-example/static/js/runtime-main.2eae71fa.js",
     "runtime-main.js.map": "/react-workshop-bingo-example/static/js/runtime-main.2eae71fa.js.map",
     "static/js/2.27db5781.chunk.js": "/react-workshop-bingo-example/static/js/2.27db5781.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.2eae71fa.js",
     "static/js/2.27db5781.chunk.js",
     "static/css/main.bd83570c.chunk.css",
-    "static/js/main.7d5b9cb7.chunk.js"
+    "static/js/main.f890b4bc.chunk.js"
   ]
 }
